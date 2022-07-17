@@ -1,3 +1,6 @@
 hello itperson! hello Git!
 hello itperson! hello Git!
 hello itperson! hello Git!
+--------------------------
+git use git use i am admin
+admin is a itperson
