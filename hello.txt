@@ -3,4 +3,8 @@ I am itperson !
 分支合并冲突测试
 ---master
 测试合并冲突---HOT-FIX
-
+--------
+远程编写的内容
+asdfqwerasdfqwerasdfqwer
+11111111111
+22222222222
