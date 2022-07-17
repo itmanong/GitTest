@@ -1,10 +1,2 @@
-hello itperson! hello Git!
-hello itperson! hello Git!
-hello itperson! hello Git!
---------------------------
-git use git use i am admin
-admin is a itperson
---------------------------
-第三次修改该文件
-熟悉git基础命令的使用
-与基础操作的熟悉
+hello itperson !
+I am itperson !
